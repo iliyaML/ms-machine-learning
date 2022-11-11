@@ -50,7 +50,7 @@ Repository for [Microsoft Machine Learning (Microsoft Learn)](https://learn.micr
 4. clustering
 
    - [041_Clustering_Introduction.ipynb](https://colab.research.google.com/github/iliyaML/ms-machine-learning/blob/main/clustering/041_Clustering_Introduction.ipynb)
-   - [042_Clustering_Kmeans_and_Hierachial.ipynb](https://colab.research.google.com/github/iliyaML/ms-machine-learning/blob/main/clustering/042_Clustering_Kmeans_and_Hierachial.ipynb)
+   - [042_Clustering_Kmeans_and_Hierarchical.ipynb](https://colab.research.google.com/github/iliyaML/ms-machine-learning/blob/main/clustering/042_Clustering_Kmeans_and_Hierarchical.ipynb)
    - [04_Clustering_Challenge.ipynb](https://colab.research.google.com/github/iliyaML/ms-machine-learning/blob/main/clustering/04_Clustering_Challenge.ipynb)
 
 5. deep-learning
